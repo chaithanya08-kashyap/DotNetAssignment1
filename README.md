@@ -38,4 +38,6 @@ class Program
         }
     }
 }
+```
+![Assignment1](https://github.com/chaithanya08-kashyap/DotNetAssignment1/assets/155832480/282de889-0dbc-412d-892f-41b58b6991d2)
 
